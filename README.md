@@ -8,7 +8,7 @@ The team wants to find the month they're likely to contact the most clients, so 
 
 Solution Approach:
 
-1. Opened the spreadsheet url and saw data. As ata is very small only 21KB, downloaded and saved copy of it on my local machine.
+1. Opened the spreadsheet url and saw data. As data is very small only 21KB, downloaded and saved copy of it on my local machine.
 
 2. Read the excel file with read_excel into dataframe and displayed first 5rows of it.
 
