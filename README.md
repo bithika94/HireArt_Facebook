@@ -35,5 +35,5 @@ Splitted tha "Date of Contact" column into three columns "Year", "Month" and "Da
 
 9. While calculating total number of clients contacted, it is a possibily that one client has contacted multiple times.
 
-10. So in order to avoid the repetative count , I calculated unique number of clients contacted per month which came to be 35 clients for the Month of October which is highest.
+10. So in order to avoid the repetative count , I calculated unique number of clients contacted per month which came to be 35 clients for the Month of October which is highest. It can be concluded that October is the best month to contact the greatest percentage of its clients.
 
